@@ -1,7 +1,7 @@
 # motion-sensor-light --- Arduino MQTT Light Control
 
 ## Description
-This Arduino project is designed to control a smart bult via MQTT based on sensor input and a button press. The project uses an Arduino board with WiFi capabilities to connect to an MQTT broker and send status updates about the light behavior.
+This Arduino project is designed to control a smart bulb via MQTT based on sensor input and a button press. The project uses an Arduino board with WiFi capabilities to connect to an MQTT broker and send status updates about the light behavior.
 
 ## Features
 - **WiFi Connectivity**: Connects to a WiFi network to communicate with an MQTT broker
